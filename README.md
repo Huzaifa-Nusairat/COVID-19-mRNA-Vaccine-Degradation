@@ -1,8 +1,6 @@
-//![alt text](github_url_image?raw=true)to add image
-
--   ## Title of the project
-
-prepared by:
+-   ## COVID-19-mRNA-Vaccine-Degradation
+![alt text](https://github.com/Huzaifa-Nusairat/COVID-19-mRNA-Vaccine-Degradation/blob/master/Image/1_aZw7kRAHfoT3u-0dMVgMGA.jpeg?raw=true)
+prepared by:Huzaifa Nusairat
 
 -   ## problem overview
 
